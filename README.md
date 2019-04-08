@@ -11,7 +11,7 @@ This document is a cheatsheet for JavaScript you will frequently encounter in mo
 
 This guide is not intended to teach you JavaScript from the ground up, but to help developers with basic knowledge who may struggle to get familiar with modern codebases (or let's say to learn React for instance) because of the JavaScript concepts used.
 
-Besides, I will sometimes provide personal tips that may be debatable but will take care to mention that it's a personal recommendation when I do so.
+Besides, I will sometimes provide personal tips that may be debatable but will take care to mention that it's a personal recommendation when I do so
 
 > **Note:** Most of the concepts introduced here are coming from a JavaScript language update (ES2015, often called ES6). You can find new features added by this update [here](http://es6-features.org); it's very well done.
 
